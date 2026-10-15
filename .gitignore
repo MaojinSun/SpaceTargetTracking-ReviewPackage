@@ -1,0 +1,10 @@
+*.zip
+*.zip.sha256
+submission_only/
+maintainer_only/
+private_source/
+build/
+**/license_state.json
+**/outputs/*
+*PASSWORD*
+REVIEWER_ACCESS_INSTRUCTIONS.*

@@ -1,0 +1,67 @@
+SPACE TARGET TRACKING ACADEMIC EVALUATION LICENSE, VERSION 1.0
+
+Copyright (c) 2026 The Authors. All rights reserved.
+
+1. Scope
+
+This license applies to the compiled Space Target Tracking Review Package,
+its reviewer-facing scripts, parameter files, plotting code, documentation,
+and accompanying data (collectively, the "Software"). The Software is not
+open-source software.
+
+2. Permitted Use
+
+The Software may be downloaded and, after an access credential has been issued
+by the authors, executed solely for noncommercial academic evaluation,
+editorial assessment, peer review, and reproduction of the numerical results
+reported in the associated paper. Authorized users may modify only the exposed
+parameter files and plotting code for these purposes.
+
+3. Access Credentials
+
+Access credentials are personal to the authorized recipient, may be
+time-limited, and must not be disclosed, published, transferred, or shared.
+The offline password and expiry check controls access to the evaluation build;
+it does not transfer ownership or grant rights beyond this license.
+
+4. Restrictions
+
+Except for viewing, downloading, and forking through GitHub's normal
+functionality, the Software may not be redistributed, sublicensed, sold,
+leased, modified, translated, incorporated into another product, or used for
+commercial or operational purposes without prior written permission from the
+copyright holders. Reverse engineering, decompilation, disassembly, removal or
+circumvention of access controls, and attempts to recover protected source code
+are prohibited to the extent permitted by applicable law.
+
+5. Ownership and Citation
+
+The Software remains the property of the copyright holders. Publications that
+use results obtained with the Software must cite the associated paper.
+
+6. Third-Party Software
+
+MATLAB Runtime and any other third-party components are governed by their own
+license terms. This license grants no rights to third-party software.
+
+7. Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, AND NON-INFRINGEMENT. THE AUTHORS SHALL NOT BE LIABLE FOR ANY CLAIM,
+DAMAGE, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+
+8. Termination
+
+The authorization granted by this license terminates automatically if its
+terms are violated. Upon termination, the user must stop using the Software
+and delete all copies in the user's possession, except for records that an
+editorial office is required to retain.
+
+9. Contact
+
+Requests for academic evaluation access or separate written permission should
+be directed to:
+
+Zichen Zhao, Corresponding Author
+Email: bitzhaozc@foxmail.com

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "Space Target Tracking Review Package"
+version: "1.0"
+date-released: 2026-10-15
+type: software
+authors:
+  - family-names: Wu
+    given-names: Fan
+  - family-names: Sun
+    given-names: Maojin
+  - family-names: Zhao
+    given-names: Zichen
+    email: bitzhaozc@foxmail.com
+  - family-names: Geng
+    given-names: Yunhai
