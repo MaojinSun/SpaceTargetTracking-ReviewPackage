@@ -1,7 +1,7 @@
 # Space Target Tracking Review Package
 
 This repository provides the executable review package associated with the
-paper "High-Dynamic Space Target Tracking under Significant Time-Varying
+paper "High-Dynamic Space Target Tracking under Time-Varying
 Visual Delay Using a Spaceborne Gimbal."
 
 ## Download
